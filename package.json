@@ -1,0 +1,19 @@
+{
+  "name": "react_project",
+  "version": "1.0.0",
+  "description": "hello from pk",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyankakandalkar7/Hello-React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyankakandalkar7/Hello-React/issues"
+  },
+  "homepage": "https://github.com/priyankakandalkar7/Hello-React#readme"
+}
